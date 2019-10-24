@@ -1,6 +1,15 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+### Changes on 23/Oct/19
+---
+
+- Changed Twitter icon to all black to complete site aesthetic
+- Removed ".html" after page names in URL
+- Added sticky footer with credit for Twitter icon author
+- Added favicons for modern browsers
+- Added Google Analytics code
+
 ### Changes on 21/Oct/19
 ---
 
