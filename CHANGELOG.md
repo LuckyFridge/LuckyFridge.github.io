@@ -1,6 +1,12 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+### Changes on 26/Oct/19
+---
+
+- Added post "Personal Work"
+- Collapse older post with `<details>` tag
+
 ### Changes on 23/Oct/19
 ---
 
