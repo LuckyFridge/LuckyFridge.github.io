@@ -1,6 +1,17 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+### Changes on 11/Jan/20
+---
+
+- Added post "Career Update"
+- Collapse older post with `<details>` tag
+- Updated Work History to reflect new employer "Gryphon Technologies"
+- Updated resume with new employer name
+- Upgraded CSS and JS to Bootstrap 4.4.1
+- Created "page 2" for the site as 2.html
+- Integrated pagination to access archive page
+
 ### Changes on 26/Oct/19
 ---
 
