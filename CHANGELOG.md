@@ -1,6 +1,19 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+### Changes 29/Jul/20
+---
+
+- Added post "Education Update"
+- Updated Education page
+- Updated resume
+
+### Changes on 24/Jul/20
+---
+
+- Added post "CoV-2"
+- Rearranged second and third pages
+
 ### Changes on 11/Jan/20
 ---
 
