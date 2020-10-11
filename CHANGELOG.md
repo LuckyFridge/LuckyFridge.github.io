@@ -1,6 +1,13 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+### Changes 11/Oct/20
+---
+
+- Added post "New Cert"
+- Updated Certs page
+- Updated to bootstrap 4.5.2
+
 ### Changes 29/Jul/20
 ---
 
