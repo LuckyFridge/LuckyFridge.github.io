@@ -1,6 +1,14 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+### Changes 1/Jan/21
+---
+
+- Added 'promotion' post
+- Updated Work History
+- Updated to Bootstrap 4.5.3
+- Updated resume file
+
 ### Changes 11/Oct/20
 ---
 
