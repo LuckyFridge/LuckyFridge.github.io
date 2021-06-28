@@ -1,6 +1,16 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+### Changes 28/Jun/21
+---
+
+- Added 'New Cert' post
+- Updated Cert history
+- Updated to Bootstrap 5
+- Updated resume file
+- Added horizontal rule `<hr>` styling
+- Updated Copyright year in footer of every page
+
 ### Changes 1/Jan/21
 ---
 
