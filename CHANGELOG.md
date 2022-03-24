@@ -1,6 +1,11 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+## Changes 24/Mar/22
+---
+
+- Updated Bootstrap styling
+
 ### Changes 28/Jun/21
 ---
 
