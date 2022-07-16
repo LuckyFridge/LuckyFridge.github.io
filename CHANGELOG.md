@@ -1,6 +1,12 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+## Changes 15/Jul/22
+---
+
+- Updated Bootstrap CSS/js
+- Updated Cert expiration dates
+
 ## Changes 24/Mar/22
 ---
 
