@@ -1,6 +1,11 @@
 VERSION 1 [rportillo.com](https://www.rportillo.com)
 =====================================================
 
+## Changes 29/Sep/22
+---
+
+- New cert post
+
 ## Changes 15/Jul/22
 ---
 

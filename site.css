@@ -134,3 +134,7 @@ a {
 .link-1:hover::after {
       height: 100%;
     }
+
+#stupid-font {
+      font-family: "Lucida Console", "Courier New", monospace;
+    }
